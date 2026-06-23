@@ -1,5 +1,5 @@
 {
-  "name": "cpf-mask",
+  "name": "@coderanac/cpf-mask",
   "version": "1.0.0",
   "description": "A tiny utility to apply, remove and validate Brazilian CPF masks",
   "main": "src/index.js",
